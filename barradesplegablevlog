@@ -1,2 +1,95 @@
-# Hello-word
-M i primer repositorio en GitHub
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PLANES Essence Fitness</title>
+    <link rel="icon" href="images/pesa.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" media="only screen and (max-width: 400px)" href="styles6.css">
+    <script src="https://kit.fontawesome.com/75c63defd6.js" crossorigin="anonymous"></script>
+</head>
+<header>
+    <h1>ESSENCE FITNESS</h1>
+    <link rel="stylesheet" href="styles6.css">
+    <nav class="barra">
+        <a href="https://www.suplementosgym.com.mx/?gclid=CjwKCAjw586hBhBrEiwAQYEnHbHnxDp4KETtjNX9tYNM_7LjbZwhOnLhY9QswToYxTCIaff4PfOWVxoCNIkQAvD_BwE"
+            target="_blank">Suplementos</a>
+        <a href="https://concepto.de/nutricion/" target="_blank">Nutrición</a>
+        <a href="https://row.shop.gymshark.com" target="_blank">Merch</a>
+        <a href="https://www.instagram.com/noahvillasana/" target="_blank">Contacto</a>
+        
+          
+    
+        <i class="fa fa-bars" aria-hidden="true"></i>
+
+    	<div class="container">
+            <div class="btn-menu">
+                <label for="btn-menu">  <i class="fa fa-bars"> </i></label>
+            </div>
+            <input type="checkbox" id="btn-menu">
+            <div class="container-menu">
+	        <div class="cont-menu">
+		    <nav>
+                <nav>
+                    <a href="">Entrenadores</a>
+                    <a href="">Agendar cita</a>
+                    <a href="">Guias de iniciación</a>
+                    <a href="">Certificaciones</a>
+                    <a href="">Preguntas frecuentes</a>
+                    <a href="">Ubicación</a>
+                </nav>
+                <label for="btn-menu">✖️</label>
+            </div>
+    
+
+</header>
+
+
+<body>
+
+    <div class="column">
+
+        <div class="caja1">
+            <h2>PAQUETE 1</h2>
+            <P>Este paquete consiste en un plan de entrenamiento que va basado a tus objetivos y el cual tendra un
+                seguimiendo
+                de cada 3 semanas.</P>
+        </div>
+
+        <div class="caja2">
+            <h2>PAQUETE 2</h2>
+            <p>Este paquete consiste en un pan de entrenamiento y asi mismo un plan de alimentación el cual ayudara un
+                avance
+                mas progresivo a tu desarrollo fisico y saludable, este es en base a tus objetivos y se monitorea cada 3
+                semanas
+                con un seguimiento antropometrico.</p>
+        </div>
+
+        <div class="caja3">
+            <h2>PAQUETE 3</h2>
+            <p>Este paquete es unicamente de alimentación, el cual se ajusta en base a tus objetivos y se realiza un
+                seguimiendo
+                de cada 3 semanas.</p>
+        </div>
+    </div>
+    <h2>¿Qué es el entrenamiento personalizado?</h2>
+    <p>El entrenamiento personal es la planificación de la actividad física y deportiva ateniéndose a las
+        características de cada persona y a los objetivos que esta se plantea en el momento de iniciar la práctica de
+        cualquier tipo de ejercicio, y con un planteamiento de aumento gradual de la intensidad en la medida en que se
+        avance en el cumplimiento de los objetivos establecidos.</p>
+
+    <video src="video/pose.mp4" controls=""></video>
+
+    
+    <p>Al final todo esto nos dirije a un solo lugar, lograr nuestros objetivos, mantenernos saludables y hacerlo de la
+        manera adecuada con la supervision de los profesionales, asi mismo esto genera muchos beneficios, asi como lo
+        pueden ser: </p> <p><br> Motivacion <br> Autoconfianza <br> Autoestima <br> Fortaleza <br> Entre otras</p>
+
+    <footer>Esta es una pagina creada por <b>Noah Villasana</b></footer>
+
+   
+
+</body>
